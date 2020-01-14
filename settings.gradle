@@ -1,0 +1,2 @@
+include ':app', ':tes_dialog_flow', ':test_api_fire'
+rootProject.name='final_project_M_Iqbal_N'

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427213379908",
+    "firebase_url": "https://contoh-80895.firebaseio.com",
+    "project_id": "contoh-80895",
+    "storage_bucket": "contoh-80895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427213379908:android:39b991e662a1b937a79f11",
+        "android_client_info": {
+          "package_name": "com.example.test_api_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427213379908-73kcims051sbj8i535l9609158qnn8mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_api_fire",
+            "certificate_hash": "b3997f2bc45935a8956b5bdf000eab6c4498349b"
+          }
+        },
+        {
+          "client_id": "427213379908-1erhm1jc3p0rr0phs42q62asea40u8l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2emmCuAN9H8mi8zxmR9MW0YfBnJTEAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427213379908-p7g0p2531j3m6vciopscn6bv92v321kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
